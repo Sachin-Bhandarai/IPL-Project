@@ -1,0 +1,2 @@
+public class GetQueries {
+}
